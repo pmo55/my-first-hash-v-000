@@ -1,5 +1,5 @@
 def my_hash
-  # use thmy_has={}
+ your_hash={}
   
 end
 
