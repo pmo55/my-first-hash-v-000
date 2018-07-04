@@ -1,6 +1,6 @@
 def my_hash
- your_hash={}
- your_hash
+ your_hash={"my_name"=>"Parsa"}
+
   
 end
 
